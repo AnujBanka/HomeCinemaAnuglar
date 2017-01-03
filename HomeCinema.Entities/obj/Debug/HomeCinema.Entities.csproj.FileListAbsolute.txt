@@ -1,0 +1,10 @@
+E:\Angular learning\HomeCinema\Source\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+E:\Angular learning\HomeCinema\Source\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+E:\Angular learning\HomeCinema\Source\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+E:\Angular learning\HomeCinema\Source\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+E:\Angular learning\HomeCinema\Source\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+E:\Angular learning\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+E:\Angular learning\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+E:\Angular learning\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+E:\Angular learning\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+E:\Angular learning\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
